@@ -1,0 +1,33 @@
+{
+  "name": "@anugrahzeputra/api_library",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anugrahzeputra/api-client.git"
+  },
+  "bugs": {
+    "url": "https://github.com/anugrahzeputra/java-springboot-example-dbapi/issues"
+  },
+  "keywords": [
+    "api",
+    "library",
+    "npm",
+    "anudbclient"
+  ],
+  "author": "Anugrah Zeputra",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.7.4",
+    "typescript": "^5.6.2"
+  },
+  "dependencies": {
+    "@types/node-fetch": "^2.6.11",
+    "node-fetch": "^3.3.2"
+  }
+}
